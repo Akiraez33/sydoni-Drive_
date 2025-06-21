@@ -1,0 +1,62 @@
+[
+    {
+        "nom": "Balo",
+        "prenom": "Talo",
+        "email": "palala@gmail.org",
+        "telephone": "1234",
+        "universite": "1234",
+        "role": "automobiliste",
+        "engin": "automobiliste",
+        "places_disponibles": "moto",
+        "points": 0,
+        "historique_trajets": []
+    },
+    {
+        "nom": "Traorer",
+        "prenom": "Lab",
+        "email": "ggg@gmail.bf",
+        "telephone": "1234",
+        "universite": "1234",
+        "role": "Burkina Institut of Technology(BIT)",
+        "engin": "automobiliste",
+        "places_disponibles": "voiture",
+        "points": 0,
+        "historique_trajets": []
+    },
+    {
+        "nom": "Traorer",
+        "prenom": "Lab",
+        "email": "gg@gmail.bf",
+        "telephone": "1234",
+        "universite": "1234",
+        "role": "Burkina Institut of Technology(BIT)",
+        "engin": "automobiliste",
+        "places_disponibles": "voiture",
+        "points": 0,
+        "historique_trajets": []
+    },
+    {
+        "nom": "ere",
+        "prenom": "fff",
+        "email": "JJJ@gmail.com",
+        "telephone": "23",
+        "universite": "23",
+        "role": "Burkina Institut of Technology(BIT)",
+        "engin": "automobiliste",
+        "places_disponibles": "moto",
+        "points": 0,
+        "historique_trajets": []
+    },
+    {
+        "nom": "TT",
+        "prenom": "BB",
+        "email": "ttt@gmail.org",
+        "telephone": "1234",
+        "universite": "1234",
+        "role": "passager",
+        "engin": "automobiliste",
+        "places_disponibles": "voiture",
+        "points": 0,
+        "historique_trajets": []
+    }
+]
